@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T20:20:36 CEST" name="Default suite" finished-at="2024-04-11T20:20:46 CEST" duration-ms="9879">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T20:20:36 CEST" name="Default test" finished-at="2024-04-11T20:20:46 CEST" duration-ms="9879">
+      <class name="uipractice.Regression">
+        <test-method is-config="true" signature="begin()[pri:0, instance:uipractice.Regression@79b06cab]" started-at="2024-04-11T20:20:36 CEST" name="begin" finished-at="2024-04-11T20:20:39 CEST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begin -->
+        <test-method signature="mainTest()[pri:0, instance:uipractice.Regression@79b06cab]" started-at="2024-04-11T20:20:39 CEST" name="mainTest" finished-at="2024-04-11T20:20:46 CEST" duration-ms="6612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:uipractice.Regression@79b06cab]" started-at="2024-04-11T20:20:46 CEST" name="finish" finished-at="2024-04-11T20:20:46 CEST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- uipractice.Regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
